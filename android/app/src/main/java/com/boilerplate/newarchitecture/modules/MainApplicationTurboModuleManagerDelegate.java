@@ -1,4 +1,4 @@
-package com.boilerplate.newarchitecture.modules;
+package com.chatapplicatione.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
